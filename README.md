@@ -1,4 +1,3 @@
-Profile Introduction
 I am an AI Solutions Architect and Agentic Developer specializing in Vibe Coding—the art of building complex software through natural language orchestration and AI-driven automation. I bridge the gap between technical linguistics and system design, focusing on creating intelligent, autonomous applications that solve real-world problems.
 
 🚀 Technical Focus
